@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
  ...
 -->
-<h1 align="center">Hi 👋, I'm Niveditha</h1>
+<h1 align="center">Hey 👋, I'm Niveditha</h1>
 <h3 align="center">Diligent human with serious skills and ambition</h3>
 
 - 🌱 I’m currently learning **full stack development**
