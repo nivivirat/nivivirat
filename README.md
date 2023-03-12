@@ -3,7 +3,7 @@
 <img src="https://github.com/nivivirat/nivivirat/blob/main/SOFTWARE%20ENGINEER.gif?raw=true" width="100%">
   
 
-### <div align="center">I'm Niveditha, a full-stack developer 👨‍💻</div>  
+### <div align="center">I'm Niveditha, a budding software developer 👨‍💻</div>  
   
 
 - 👯 I’m looking to collaborate on mobile app development  
@@ -97,11 +97,3 @@
 
   
 
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
