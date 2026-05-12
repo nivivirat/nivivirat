@@ -1,5 +1,5 @@
 <h1 align="left">
-  Hi, i'm Niveditha 👋
+  hi, i'm niveditha 👋
 </h1>
 
 <p align="left">
@@ -35,15 +35,10 @@ const niveditha = {
 
 ---
 
-### 📊 the receipts
+### 🛠️ toolbelt
 
 <p align="left">
-  <a href="https://github.com/nivivirat">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=nivivirat&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs" />
-  </a>
-  <a href="https://github.com/nivivirat">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivivirat&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,tailwind,html,css,git,github,vscode,figma,firebase,mysql&perline=7" />
 </p>
 
 ---
