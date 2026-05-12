@@ -1,17 +1,17 @@
 <h1 align="left">
-  Hi, i'm niveditha 👋
+  Hi, i'm Niveditha 👋
 </h1>
 
 <p align="left">
   <em>software engineer. i build web apps with react.</em><br/>
-  <em>i write code that works on my machine — and yours too, hopefully.</em>
+  <em>i write code that works on my machine - and yours too, hopefully.</em>
 </p>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/niveditha-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:imniveditha1188@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
